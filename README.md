@@ -3,6 +3,10 @@
 Enter the bill amount and the cash given by the customer, and it works out the minimum number of notes to return as change.
 
 
+## Screenshot
+
+![Demo](screenshots/demo.png)
+
 ## Features
 
 - Bill amount and cash-given inputs
